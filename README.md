@@ -51,6 +51,7 @@ Using a band-aid like `cursor: pointer` just confuses the issue.
 ## Further reading
 * [Kyle Neath: URL Design](http://warpspire.com/posts/url-design)
 * [Wikipedia: Semantic URL](https://en.wikipedia.org/wiki/Semantic_URL)
+* [24 Ways: How Tabs Should Work](https://24ways.org/2015/how-tabs-should-work)
 * [Adam Silver: Buttons shouldn’t have a hand cursor
 ](https://medium.com/simple-human/buttons-shouldnt-have-a-hand-cursor-b11e99ca374b)
 
